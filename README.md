@@ -1,8 +1,8 @@
 # Furgonomic Engineering Standard (FES)
 
-![FES Bureau Banner](https://shields.io)
-![License](https://shields.io)
-![Maintainer](https://shields.io)
+![Status](https://shields.io)  
+![License](https://shields.io)  
+![Maintainer](https://shields.io)  
 
 Open-source furgonomic engineering and anatomical standards for multi-species infrastructure. A systematic framework for spatial clearance, biomechanical interfaces, and SARM-01 baselines. Governed by the FES Bureau.
 
